@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://play-lh.googleusercontent.com/8-y_X8w72hM99aE2mG80396X1vQz2S-_Z3K3zD7FzUo89zXp_X99_X_8_X9_X99",
+    "url": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "thumbnail": "https://tetris.com/img/tetris-logo.png",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Classic"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Eat the apples and grow your snake without hitting the walls.",
+    "thumbnail": "https://www.google.com/logos/fnbx/snake_arcade/v1/snake_arcade_thumbnail.png",
+    "url": "https://www.google.com/logos/fnbx/snake_arcade/v1/snake_arcade.html",
+    "category": "Classic"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Classic arcade game. Eat dots, avoid ghosts.",
+    "thumbnail": "https://www.google.com/logos/fnbx/pacman/v3/pacman_thumbnail.png",
+    "url": "https://www.google.com/logos/fnbx/pacman/v3/pacman.html",
+    "category": "Arcade"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D ball runner game.",
+    "thumbnail": "https://slope-game.github.io/slope.png",
+    "url": "https://slope-game.github.io/",
+    "category": "Action"
+  }
+]
